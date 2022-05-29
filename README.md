@@ -11,3 +11,7 @@ This project is the NFT project based on OpenZeppelin build with Truffle, and th
 - It should be able to set up the max count when the user mints each time.
 - It should be able to set up the max count each user owns.
 - Some operations are performed only by the contract owner definitially. 
+
+If you are interested in the project, there are two other extending projects based on the project.
+- [Upgradable NFT based on OpenZeppelin](https://github.com/pinkyTseng/UpgradableNFT)
+- [NFT with Test and through some automatic analysis tools](https://github.com/pinkyTseng/NFTwithTest)
